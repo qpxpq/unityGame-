@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialogues>
+	<Dialogue Group="0" Person="Player" Text="老人家，您怎么称呼，请问这里是什么地方？"/>
+	<Dialogue Group="0" Person="NPC" Text="你好，年青人，这里是小寰岛，我是本岛的土地。"/>
+	<Dialogue Group="0" Person="Player" Text="土地公爷爷，请问在这里我需要完成什么任务？"/>
+	<Dialogue Group="0" Person="NPC" Text="你需要在村子里收集足够的水灵气，才能打开木屋的门。"/>
+	<Dialogue Group="0" Person="Player" Text="我看这里很大，您知道哪里才有水灵气吗？"/>
+	<Dialogue Group="0" Person="NPC" Text="作为新手，送给你一个宝镜，按'M'键打开，自己探索吧！"/>
+	<Dialogue Group="0" Person="Player" Text="好的，谢谢老人家。"/>
+</Dialogues>
